@@ -2,8 +2,6 @@
 
 ---
 
-![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_au$
-
 ## **Name**
 Ironhack Project - Exploratory Data Visualization
 
@@ -22,7 +20,7 @@ Pandas, matplotlib, seaborn, scipy.stats,
 3- Hypothesis testing with Python
 4- Create an interactive Dashboard in Tableau
 
-Link to my Tableau Dashboard:
+Link to my Tableau Dashboard: https://public.tableau.com/profile/claracarbo#!/vizhome/ih_datamadpt1120_project_m2/ih_module2?publish=yes
 
 ## :love_letter: Contact info
 Doubts? Advice? Drop me a line!
